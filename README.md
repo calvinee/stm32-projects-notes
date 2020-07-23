@@ -1,2 +1,2 @@
 # stm32-projects-notes
- There are learning notes and pratice projects using stm32.
+ There are studying notes and praticing projects using stm32.
