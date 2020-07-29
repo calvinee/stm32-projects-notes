@@ -9,9 +9,9 @@
  int main(void)
 {	
 	 //初始化外设
-	 LED_Init();
-	 EXTIX_Init();
-	 uart_init(115200);
+	 LED_Init(); //LED初始化
+	 EXTIX_Init();//中断初始化
+	 uart_init(115200); //串口初始化
 	 delay_init();
 	 KEY_Init();
 	 BEEP_Init();
